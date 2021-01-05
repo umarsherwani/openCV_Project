@@ -4,7 +4,7 @@
 import cv2
 import winsound
 
-# zero(0) is for single camera if you've ultiple camera you can change with 1,2,3,4..... etc 
+#zero(0) is for single camera if you've Multiple camera you can change with 1,2,3,4..... etc 
 cam = cv2.VideoCapture(0,cv2.CAP_DSHOW)
 while cam.isOpened():
     ret , frame1 = cam.read()
