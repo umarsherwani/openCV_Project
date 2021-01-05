@@ -1,4 +1,4 @@
-# openCV_Project
+# openCV_Project FULL DESCRIPTION
 
 
 import cv2
